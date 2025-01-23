@@ -1,15 +1,13 @@
 ---
-title: Principles for Data Analysis from Start to Finish 
+title: "<span style='color: white'>Principles for Data Analysis from Start to Finish</span>"
 format:
   revealjs:
     theme: [default, principles.scss]
 slide-number: true
 title-slide-attributes:
-  data-background-image: "graphics/transition_slides/peter-f.jpg"
+  data-background-image: "https://github.com/ID529/lectures/blob/main/graphics/transition_slides/peter-f.jpg?raw=true"
   data-background-opacity: "100%"
   data-background-color: "black"
-revealjs-plugins:
-  - pointer
 execute: 
   echo: true
 
