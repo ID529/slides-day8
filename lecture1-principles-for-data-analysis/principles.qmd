@@ -127,6 +127,13 @@ from Jenny Bryan's talk on spreadsheets <https://speakerdeck.com/jennybc/spreads
 
 <https://twitter.com/patilindrajeets/status/1375006386795524098></center>
 
+
+## 
+
+![DataSaurus Dozen](https://blog.revolutionanalytics.com/downloads/DataSaurus%20Dozen.gif)
+
+<https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html>
+
 ## explore {.small}
 
   10. make lots of plots 
